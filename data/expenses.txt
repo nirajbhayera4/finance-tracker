@@ -1,4 +1,5 @@
-12.50,Food
-45.00,Transport
-120.00,Rent
+12.5,Food
+45.0,Transport
+120.0,Rent
 6.75,Coffee
+125.0,Food
