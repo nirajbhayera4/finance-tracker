@@ -10,7 +10,7 @@ def add_expense(expenses_list):
         print("Invalid input! Please enter a valid decimal number.\n")
         return 
     
-    category=input("enter category (e.g Food, transport ,rent): ").strip().capitalize()
+    category=input("enter category (e.g Food, Transport ,Rent): ").strip().capitalize()
     if not category:
         category="uncategorized"
 
